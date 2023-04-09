@@ -1,0 +1,4 @@
+dropout: 0.3
+factor_num: 32
+item_num: 1933
+user_num: 25035
